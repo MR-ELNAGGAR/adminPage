@@ -140,7 +140,6 @@ body {
   border: 1px solid transparent;
   border-radius: 5px;
   font-family: "Arial", sans-serif;
-  font-size: 10px;
   direction: ltr;
 }
 .imgs input:focus {
